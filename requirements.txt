@@ -1,0 +1,5 @@
+httplib2
+opencv-python
+tensorflow==1.12.0
+numpy==1.13.3
+pysha3
